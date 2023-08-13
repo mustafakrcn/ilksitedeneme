@@ -1,0 +1,59 @@
+.text
+{
+    
+    text-align:center;
+    font-size: 76px;
+    color:#e5e5e5;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8), 0 0 20px rgba(255, 255, 255, 0.8), 0 0 30px rgba(255, 255, 255, 0.8);
+    margin-bottom: 500px;
+}
+
+
+.mn
+{
+    text-align: center;
+ 
+}
+
+
+.header 
+{
+    display: inline-block;  
+    margin: 0 90px;
+    font-size: 86px;
+    color:#d6d2d2;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.286), 0 0 20px rgba(255, 255, 255, 0.8), 0 0 30px rgba(255, 255, 255, 0.8);
+   
+}
+
+
+.body
+{
+
+    background-image: url(https://r4.wallpaperflare.com/wallpaper/224/105/179/soccer-ricardo-quaresma-be%C5%9Fikta%C5%9F-j-k-wallpaper-309035e97f163e13182f37d61b36d4f8.jpg);
+ 
+}
+
+
+
+
+
+
+.div
+{
+    text-align: center;
+    font-size: 23px;
+   
+}
+   
+   
+    
+.src{
+    text-align: center;
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+ ;
+}
+
+  
